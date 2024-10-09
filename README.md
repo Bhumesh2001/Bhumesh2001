@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Bhumesh, a software developer from Nagpur creating innovative software solutions. Let's build something amazing! 🚀</h2>
+<h2 align="left">Hi 👋! I'm Bhumesh, a Software Developer from Nagpur creating innovative software solutions. Let's build something amazing! 🚀</h2>
 
 ###
 
