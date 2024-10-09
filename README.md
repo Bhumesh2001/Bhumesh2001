@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://res.cloudinary.com/dtnmqjjrt/image/upload/v1728496376/github_image_profile_gioci2.jpg"  />
 
 ###
 
